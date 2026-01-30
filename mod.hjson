@@ -1,9 +1,9 @@
 displayName: "Foo's Client Installer (V8)"
-name: "fooInstaller"
+name: "fooInstallerV8"
 author: "foo, buthed010203"
 main: "fooInstaller.Main"
 description: "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-version: "1.2.5"
+version: "1.2.6"
 minGameVersion: 154
-repo: "mindustry-antigrief/installer"
+repo: "JasonP01/fooinstaller"
 hidden: true
